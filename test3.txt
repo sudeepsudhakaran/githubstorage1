@@ -1,1 +1,1 @@
-NetApp controller check
+NetApp controller check and we need all the storage details.
